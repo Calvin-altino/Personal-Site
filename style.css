@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'tst';
+    src: url('PrintChar21.ttf');
+  }
+
+  
+
+
+  
+body{
+    background-color: rgb(0, 0, 0);
+    
+    color: rgb(29, 255, 97);
+    font-family: 'tst', 'Georgia', serif;
+    background-image: url("./glitchy-glitch.gif");
+    
+}
+
+header{
+    text-align: center;
+    
+}
+
+div#tudo{
+    
+    background-color: rgb(0, 0, 0);
+    border: 10px solid rgb(0, 0, 0);
+
+    max-width: 1000px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    
+ 
+
+  
+}
+div#main{
+   margin: 100px;
+    max-width: 1000px;
+}
+
+img{
+    width: 1100px;
+    margin-top: -830px;
+    margin-left: -20px;
+    pointer-events: none;
+}
+
+h1, h2#sub, h3#frase{
+    text-align: center;
+    margin: 30px;
+}
+h4{
+    
+    margin-top: 60px;
+}
+
+p{
+    font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+}
+
